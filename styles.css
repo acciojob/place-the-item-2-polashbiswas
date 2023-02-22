@@ -1,2 +1,20 @@
-
+.item{
+	width:50px;
+	padding:20px;
+}
+.holder{
+	display:flex;
+	background-color:yellow;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.one{
+	background-color:green;
+}
+.two{
+	background-color:red;
+}
+.three{
+	background-color:blue;
+}
 /* Your CSS Code here. */
